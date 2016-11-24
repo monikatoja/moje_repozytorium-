@@ -1,6 +1,8 @@
 //monika pisze glupoty
 
 
+//monika pisze glupoty przez mastera nanannana
+
 
 // Sortowanie przez kopcowanie
 //--------------------------------------------------------
