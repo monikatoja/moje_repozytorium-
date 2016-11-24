@@ -1,3 +1,7 @@
+//monika pisze glupoty
+
+
+
 // Sortowanie przez kopcowanie
 //--------------------------------------------------------
 // (C)2012 mgr Jerzy Wa³aszek
